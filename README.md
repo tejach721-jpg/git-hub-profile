@@ -1,55 +1,47 @@
-# Hi there, I'm Teja Ch 👋
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-### Aspiring Data Analyst | SQL · Power BI · Excel | Turning Data into Insights
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+</div>
 
-## 👨‍💻 About Me
+###
 
-- 🎯 Passionate about turning raw data into meaningful business insights
-- 🛠️ Building hands-on projects in **SQL Server** and **Power BI**
-- 📊 Love creating dashboards that make complex data easy to understand
-- 📍 Vijayawada, Andhra Pradesh, India
-- 💼 Open to **internships** and **entry-level Data Analyst** roles
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/teja-ch)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tejach721-jpg.tejach721-jpg&"  />
+</div>
 
----
+###
 
-## 🛠️ Skills & Tools
+<h1 align="center">hey there 👋</h1>
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+###
 
----
+<h3 align="left">👩‍💻  About Me</h3>
 
-## 📂 Projects
+###
 
-| Project | Description | Tools |
-|---------|-------------|-------|
-| 🔜 SQL Data Analysis | Analyzing real datasets using joins, CTEs, stored procedures | SQL Server |
-| 🔜 Power BI Dashboard | Interactive sales/performance dashboard | Power BI |
+<p align="left">🔭 Working on Data Analyst projects using real-world data<br>🌱 Learning SQL, Power BI & Data Visualization<br>👯 Open to collaborate on data projects and dashboards<br>💬 Ask me about SQL and Power BI<br>⚡ Goal: Becoming a job-ready Data Analyst 📊</p>
 
-> 🚧 Projects uploading soon — stay tuned!
+###
 
----
+<h3 align="left">🛠 Language and tools</h3>
 
-## 📊 GitHub Stats
+###
 
-![Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejach721-jpg&show_icons=true&theme=default&hide_border=true)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejach721-jpg&layout=compact&theme=default&hide_border=true)
+###
 
----
+<h3 align="left">🔥   My Stats :</h3>
 
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teja-ch)
-
----
-
-⭐ *If you find my work helpful, feel free to star my repositories!*
-
-
-
+###
